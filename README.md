@@ -1,13 +1,10 @@
 # 👋 Xin chào, mình là Nguyễn Hoàng Khánh
-
 🎓 Sinh viên năm 3 ngành Công nghệ Thông tin  
 💻 Yêu thích lập trình Web, Windows Forms và Phân tích dữ liệu  
 🚀 Hiện đang thực hiện các project học tập liên quan đến C#, Python, Flask và SQL Server
-
 ---
 
 ## 👨‍💻 Giới thiệu bản thân
-
 Mình là sinh viên CNTT với định hướng phát triển theo hướng Software Developer và Data Analysis.  
 Trong quá trình học tập, mình tập trung xây dựng các project thực tế như website bán hàng, phần mềm quản lý quán cà phê, hệ thống crawler dữ liệu bất động sản và các ứng dụng quản lý bằng Windows Forms.
 
@@ -24,7 +21,6 @@ Mục tiêu hiện tại của mình là nâng cao kỹ năng lập trình thự
 ---
 
 # 🛠️ Công nghệ và ngôn ngữ sử dụng
-
 ## 💻 Ngôn ngữ lập trình
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -46,31 +42,11 @@ Mục tiêu hiện tại của mình là nâng cao kỹ năng lập trình thự
 
 ---
 
-# 📌 Project nổi bật
-
-| Project | Công nghệ |
-|---|---|
-| QL_QuanCafe_Windows | C# Windows Forms + SQL Server |
-| DoAn_KTLTTPTDL | Flask + SQLite + Pandas |
-| DoAn_ThietKeWeb | HTML/CSS/JavaScript |
-| Website Freelancer | ASP.NET MVC + SQL Server |
-
----
-
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangfkhanhs&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangfkhanhs&layout=compact&theme=tokyonight)
-
----
 
 # 📫 Liên hệ
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/@ngxhoangfkhanhs)
 
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangfkhanhs)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngxhoangfkhanhs@gmail.com)
