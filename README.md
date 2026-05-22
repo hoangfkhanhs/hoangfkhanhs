@@ -1,5 +1,5 @@
 # 👋 WELCOME TO MY PAGE 
-Tôi tên Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông tin ĐH Thủ Dầu Một    
+Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông tin ĐH Thủ Dầu Một    
 ---
 ## Mục tiêu ngắn hạn
 - Tập trung phát triển theo hướng Backend Developer
@@ -11,7 +11,7 @@ Tôi tên Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông t
 - Có khả năng xây dựng và triển khai hệ thống web hoàn chỉnh từ frontend, backend đến database
 ---
 
-# 🛠️ Công nghệ và ngôn ngữ sử dụng
+# Công nghệ và ngôn ngữ sử dụng
 ## Ngôn ngữ lập trình
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,12 +30,8 @@ Tôi tên Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-
-# 📫 Liên hệ
+# Liên hệ
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/@ngxhoangfkhanhs)
-
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngxhoangfkhanhs@gmail.com)
