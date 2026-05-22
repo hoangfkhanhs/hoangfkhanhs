@@ -1,28 +1,18 @@
-# 👋 Xin chào, mình là Nguyễn Hoàng Khánh
-🎓 Sinh viên năm 3 ngành Công nghệ Thông tin  
-💻 Yêu thích lập trình Web, Windows Forms và Phân tích dữ liệu  
-🚀 Hiện đang thực hiện các project học tập liên quan đến C#, Python, Flask và SQL Server
+# 👋 WELCOME TO MY PAGE 
+Tôi tên Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông tin ĐH Thủ Dầu Một    
 ---
-
-## 👨‍💻 Giới thiệu bản thân
-Mình là sinh viên CNTT với định hướng phát triển theo hướng Software Developer và Data Analysis.  
-Trong quá trình học tập, mình tập trung xây dựng các project thực tế như website bán hàng, phần mềm quản lý quán cà phê, hệ thống crawler dữ liệu bất động sản và các ứng dụng quản lý bằng Windows Forms.
-
-Ngoài việc học trên lớp, mình thường tự tìm hiểu thêm về:
-- Web Development
-- Data Analysis
-- Database Design
-- UI/UX cơ bản
-- REST API
-- Xử lý dữ liệu với Python
-
-Mục tiêu hiện tại của mình là nâng cao kỹ năng lập trình thực tế, xây dựng portfolio cá nhân và tích lũy kinh nghiệm để phục vụ cho công việc sau này.
-
+## Mục tiêu ngắn hạn
+- Tập trung phát triển theo hướng Backend Developer
+- Nâng cao kỹ năng lập trình Web với C#, ASP.NET MVC và Python Flask
+- Học cách thiết kế và làm việc với cơ sở dữ liệu SQL Server
+- Xây dựng thêm các project thực tế để nâng cao kinh nghiệm
+## Mục tiêu dài hạn
+- Tiếp tục học Frontend để phát triển theo hướng Full Stack Developer
+- Có khả năng xây dựng và triển khai hệ thống web hoàn chỉnh từ frontend, backend đến database
 ---
 
 # 🛠️ Công nghệ và ngôn ngữ sử dụng
-## 💻 Ngôn ngữ lập trình
-
+## Ngôn ngữ lập trình
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,8 +21,7 @@ Mục tiêu hiện tại của mình là nâng cao kỹ năng lập trình thự
 
 ---
 
-## ⚙️ Framework & Công cụ
-
+## Framework & Công cụ
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
