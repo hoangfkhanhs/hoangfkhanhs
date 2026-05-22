@@ -10,8 +10,6 @@ Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông tin ĐH Th�
 - Tiếp tục học Frontend để phát triển theo hướng Full Stack Developer
 - Có khả năng xây dựng và triển khai hệ thống web hoàn chỉnh từ frontend, backend đến database
 ---
-
-# Công nghệ và ngôn ngữ sử dụng
 ## Ngôn ngữ lập trình
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
