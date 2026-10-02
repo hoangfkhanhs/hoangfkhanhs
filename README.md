@@ -1,5 +1,5 @@
 # 👋 WELCOME TO MY PAGE 
-Nguyễn Hoàng Khánh, sinh viên năm 3 ngành Công nghệ Thông tin ĐH Thủ Dầu Một    
+Nguyễn Hoàng Khánh, sinh viên năm 4 ngành Công nghệ Thông tin ĐH Thủ Dầu Một    
 ---
 ## Mục tiêu ngắn hạn
 - Tập trung phát triển theo hướng Backend Developer
